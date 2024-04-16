@@ -58,6 +58,7 @@ docker-compose.override.yml
 /tests/testFileEditor/courseLive/
 /tests/testFileEditor/courseOrigin/
 /tests/testFileEditor/courseDev/
+/apps/prairielearn/src/tests/helperConfig.
 
 ## Yarn
 node_modules
